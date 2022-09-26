@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tobbyano1234
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning html, css, javascript
-- 💞️ I’m looking to collaborate on any project so I can gather real life experience
+- 👀 I’m a software engineering
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me @ adegbesan86@gmail.com
 
 <!---
