@@ -11,6 +11,6 @@ CSS/SASS ||
 TDD || 
 MongoDB & Postgres || 
 Agile Methodologies || 
-GIT ||
+Git & Github
 
 - 📫 How to reach me @ adegbesan86@gmail.com
