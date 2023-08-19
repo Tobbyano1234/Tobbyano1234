@@ -15,4 +15,4 @@ MongoDB & Postgres ||
 Agile Methodologies || 
 Git & Github
 
-- 📫 How to reach me @ adegbesan86@gmail.com
+- 📫 Reach me @ adegbesan86@gmail.com
