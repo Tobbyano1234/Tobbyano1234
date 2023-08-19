@@ -5,7 +5,9 @@ My name is Oluwatobi Adegbesan,I am a full-stack Node.js developer with over 2 y
 My Skill Set 🧑‍💻
 TypeScript ||
 JavaScript ||
-NodeJs ||
+NodeJS ||
+Express Framework ||
+NestJS
 React || 
 CSS/SASS ||
 TDD || 
