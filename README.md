@@ -7,7 +7,7 @@ TypeScript ||
 JavaScript ||
 NodeJS ||
 Express Framework ||
-NestJS
+NestJS ||
 React || 
 CSS/SASS ||
 TDD || 
